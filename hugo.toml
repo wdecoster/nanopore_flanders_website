@@ -1,0 +1,31 @@
+baseURL = 'https://nanoporeflanders.be'
+languageCode = 'en-us'
+title = 'Flanders Nanopore Day'
+theme = 'flanders-nanopore'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = 'The Flanders Nanopore Day - A Scientific Conference'
+  author = 'Flanders Nanopore Day Organizing Committee'
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'Practical'
+    url = '/practical/'
+    weight = 2
+  [[menu.main]]
+    name = 'Program'
+    url = '/program/'
+    weight = 3
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 4

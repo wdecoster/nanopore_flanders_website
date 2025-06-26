@@ -1,0 +1,12 @@
+{{ define "content" }}
+<div class="home-content">
+    <div class="hero-section">
+        {{ if .Title }}
+        <h1 class="hero-title">{{ .Title }}</h1>
+        {{ end }}
+        <div class="hero-content">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+{{ end }}

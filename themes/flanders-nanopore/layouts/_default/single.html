@@ -1,0 +1,12 @@
+{{ define "content" }}
+<div class="content">
+    <article>
+        {{ if .Title }}
+        <h1 class="page-title">{{ .Title }}</h1>
+        {{ end }}
+        <div class="page-content">
+            {{ .Content }}
+        </div>
+    </article>
+</div>
+{{ end }}

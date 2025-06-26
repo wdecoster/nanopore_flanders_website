@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .Title }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+    <meta name="description" content="{{ .Site.Params.description }}">
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="banner">
+                <h1 class="site-title">
+                    <a href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
+                </h1>
+                <p class="site-description">{{ .Site.Params.description }}</p>
+                <div class="collaboration">
+                    <p class="collaboration-text">In collaboration with</p>
+                    <img src="{{ "images/sponsors/ont-logo.svg" | relURL }}" alt="Oxford Nanopore Technologies" class="collaboration-logo">
+                </div>
+            </div>
+            <nav class="navigation">
+                <ul class="nav-list">
+                    {{ range .Site.Menus.main }}
+                    <li class="nav-item">
+                        <a href="{{ .URL | relURL }}" class="nav-link{{ if $.IsMenuCurrent "main" . }} active{{ end }}">
+                            {{ .Name }}
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            {{ block "content" . }}{{ end }}
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="sponsors">
+                <h3>Our Sponsors</h3>
+                <div class="sponsor-logos">
+                    <div class="sponsor-logo">
+                        <img src="{{ "images/sponsors/ont-logo.svg" | relURL }}" alt="Oxford Nanopore Technologies" class="sponsor-img">
+                    </div>
+                </div>
+            </div>
+            <div class="footer-info">
+                <p>&copy; {{ now.Year }} Flanders Nanopore Day. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

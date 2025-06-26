@@ -1,0 +1,4 @@
+name = "Flanders Nanopore Theme"
+license = "MIT"
+description = "A custom theme for the Flanders Nanopore Day website"
+min_version = "0.41.0"
