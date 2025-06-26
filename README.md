@@ -108,14 +108,27 @@ This site uses a custom Hugo theme called "flanders-nanopore" specifically desig
 
 ## Contact
 
-For questions about the website, please contact: [info@nanoporeflanders.be](mailto:info@nanoporeflanders.be)
+For questions about the website, please contact: [nanoporeday@uantwerpen.be](mailto:nanoporeday@uantwerpen.be)
+
+## Forms Setup
+
+This website includes registration and abstract submission forms powered by Formspree. To activate the forms:
+
+1. Sign up for a free account at [Formspree.io](https://formspree.io)
+2. Create two forms:
+   - **Registration Form**: For conference registration
+   - **Abstract Form**: For abstract submissions
+3. Replace the form action URLs in `content/practical.md`:
+   - Replace `YOUR_FORM_ID` with your registration form ID
+   - Replace `YOUR_ABSTRACT_FORM_ID` with your abstract form ID
+4. Configure email notifications in your Formspree dashboard
 
 ## To Do
 
+- [ ] Set up Formspree account and configure form IDs
 - [ ] Add map for location to practical information page
 - [ ] Add organizing committee information, including pictures, names and affiliations (UAntwerp and beyond)
-- [ ] Add registration link when available
-- [ ] Add information about submitting abstracts
+- [x] Add registration and abstract submission forms
 - [ ] Update program with confirmed speakers
 - [ ] Add social media links
 - [ ] Add sponsors, partners and how to become a sponsor
