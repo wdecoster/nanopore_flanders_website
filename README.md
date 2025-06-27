@@ -110,22 +110,40 @@ This site uses a custom Hugo theme called "flanders-nanopore" specifically desig
 
 For questions about the website, please contact: [nanoporeday@uantwerpen.be](mailto:nanoporeday@uantwerpen.be)
 
-## Forms Setup
+## Google Forms Setup
 
-This website includes registration and abstract submission forms powered by Formspree. To activate the forms:
+This website includes registration and abstract submission using embedded Google Forms. To set up the forms:
 
-1. Sign up for a free account at [Formspree.io](https://formspree.io)
-2. Create two forms:
-   - **Registration Form**: For conference registration
-   - **Abstract Form**: For abstract submissions
-3. Replace the form action URLs in `content/practical.md`:
-   - Replace `YOUR_FORM_ID` with your registration form ID
+### Create the Forms
+
+1. **Registration Form**: Go to [forms.google.com](https://forms.google.com) and create a new form
+   - Add fields: Full Name, Email, Institution/Organization, Position/Title, Dietary Requirements, Networking Interest
+   - Configure to collect email addresses and send confirmation emails
+
+2. **Abstract Submission Form**: Create a second form  
+   - Add fields: Presenting Author, Email, Institution, Abstract Title, All Authors, Abstract Text (paragraph), Presentation Type (multiple choice), Keywords
+   - Set character limits where appropriate
+
+### Get Embed URLs
+
+1. For each form, click **Send** → **Embed** (< > icon)
+2. Copy the embed URL from the iframe src attribute
+3. Replace the placeholder URLs in `content/practical.md`:
+   - Replace `YOUR_REGISTRATION_FORM_ID` with your registration form ID
    - Replace `YOUR_ABSTRACT_FORM_ID` with your abstract form ID
-4. Configure email notifications in your Formspree dashboard
+
+### Benefits of Google Forms
+
+- ✅ **Unlimited submissions** - No cost limitations
+- ✅ **Automatic data collection** in Google Sheets
+- ✅ **Email notifications** when forms are submitted
+- ✅ **Data export** to CSV/Excel for analysis
+- ✅ **Built-in spam protection**
+- ✅ **Mobile responsive** design
 
 ## To Do
 
-- [ ] Set up Formspree account and configure form IDs
+- [x] Create and configure Google Forms for registration and abstracts
 - [ ] Add map for location to practical information page
 - [ ] Add organizing committee information, including pictures, names and affiliations (UAntwerp and beyond)
 - [x] Add registration and abstract submission forms
