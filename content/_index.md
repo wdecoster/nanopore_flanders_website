@@ -20,7 +20,7 @@ Submit a project proposal for your chance to win **free sequencing on two Promet
 
 - **Date**: April 17th, 2026
 - **Location**: UAntwerp Stadscampus, Building C, Aula C.001, Antwerp
-- **Registration**: [Register now](/registration/)
+- **Registration**: Free for academics, 250 EUR for industry - [Register now](/registration/)
 - **Abstract submission**: [Submit abstract](/abstracts/)
 - **Project proposals**: [Submit proposal](/projects/)
 

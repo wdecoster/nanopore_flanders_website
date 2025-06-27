@@ -37,6 +37,12 @@ Parking information will be provided closer to the event date.
 
 *Detailed program will be updated soon*
 
+## Registration Information
+
+- **Academic participants**: Free registration (universities, research institutes)
+- **Industry participants**: 250 EUR registration fee
+- **Invoice**: Industry participants will receive an invoice after registration
+
 ## What to Bring
 
 - **Registration confirmation** (digital or printed)

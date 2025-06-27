@@ -6,7 +6,14 @@ draft: false
 
 ## Conference Registration
 
-Registration for Flanders Nanopore Day 2026 is **free but required**. Please fill out the form below to secure your spot.
+Registration for Flanders Nanopore Day 2026 is required. Please fill out the form below to secure your spot.
+
+### Registration Fees
+
+- **Academic participants**: **FREE** (Universities, research institutes, non-profit organizations)
+- **Industry participants**: **250 EUR** (Commercial companies, for-profit organizations)
+
+**Important for industry participants**: An invoice will be sent to you after registration based on the information provided in the registration form.
 
 **Event Details:**
 - **Date**: April 17th, 2026
