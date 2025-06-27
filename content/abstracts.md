@@ -16,7 +16,7 @@ We invite you to submit your abstract for consideration as a **poster** or **ora
 
 ### Submission Guidelines
 
-- **Abstract length**: Maximum 300 words
+- **Abstract length**: Maximum 1000 characters
 - **Presentation types**: Poster presentation, oral presentation, or either
 - **Topics**: All aspects of nanopore technology and applications
 - **Language**: English

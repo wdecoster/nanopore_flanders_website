@@ -150,3 +150,5 @@ This website includes registration and abstract submission using embedded Google
 - [ ] Update program with confirmed speakers
 - [ ] Add social media links
 - [ ] Add sponsors, partners and how to become a sponsor
+- [ ] Make clear that the conference is not free for industry participants, and that an invoice will be sent after registration
+- [x] Add a tab with google form for submission of project proposals to win free sequencing on two PromethION flow cells
