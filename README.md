@@ -144,8 +144,8 @@ This website includes registration and abstract submission using embedded Google
 ## To Do
 
 - [x] Create and configure Google Forms for registration and abstracts
-- [ ] Add map for location to practical information page
-- [ ] Add organizing committee information, including pictures, names and affiliations (UAntwerp and beyond)
+- [x] Add map for location to practical information page
+- [x] Add organizing committee information, including pictures, names and affiliations (UAntwerp and beyond)
 - [x] Add registration and abstract submission forms
 - [ ] Update program with confirmed speakers
 - [ ] Add social media links

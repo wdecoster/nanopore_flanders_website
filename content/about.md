@@ -36,47 +36,66 @@ The Flanders Nanopore Day is a scientific conference dedicated to advancing nano
 
 <div style="flex: 1 1 200px; text-align: center;">
   <img src="/images/people/mojca.png" alt="Mojca" style="width:150px; border-radius: 50%;">
-  <p><strong>Mojca Strazisar</strong><br>Commander of chaos</p>
+  <p><strong>Mojca Strazisar</strong><br>
+  <span style="font-size: 0.9em; color: gray;">UAntwerp - VIB</span><br>
+  Commander of chaos</p>
+  
 </div>
 
 <div style="flex: 1 1 200px; text-align: center;">
   <img src="/images/people/wouter.png" alt="Wouter" style="width:150px; border-radius: 50%;">
-  <p><strong>Wouter De Coster</strong><br>Chief QC</p>
+  <p><strong>Wouter De Coster</strong><br>
+  <span style="font-size: 0.9em; color: gray;">UAntwerp - VIB</span><br>
+  Chief QC</p>
 </div>
 
 <div style="flex: 1 1 200px; text-align: center;">
   <img src="/images/people/eline.png" alt="Eline" style="width:150px; border-radius: 50%;">
-  <p><strong>Eline Turcksin</strong><br>Fixer</p>
+  <p><strong>Eline Turcksin</strong><br>
+  <span style="font-size: 0.9em; color: gray;">UAntwerp</span><br>
+  Fixer</p>
 </div>
 
 <div style="flex: 1 1 200px; text-align: center;">
   <img src="/images/people/wouter2.png" alt="Julia" style="width:150px; border-radius: 50%;">
-  <p><strong>Julia Gauglitz</strong><br>Strategic oversight</p>
+  <p><strong>Julia Gauglitz</strong><br>
+  <span style="font-size: 0.9em; color: gray;">UAntwerp</span><br>
+  Strategic oversight</p>
 </div>
 
 <div style="flex: 1 1 200px; text-align: center;">
   <img src="/images/people/wouter2.png" alt="Tim" style="width:150px; border-radius: 50%;">
-  <p><strong>Tim De Pooter</strong><br>DNA wisperer</p>
+  <p><strong>Tim De Pooter</strong><br>
+  <span style="font-size: 0.9em; color: gray;">UAntwerp - VIB</span><br>
+  DNA wisperer</p>
 </div>
 
 <div style="flex: 1 1 200px; text-align: center;">
   <img src="/images/people/wouter2.png" alt="Jasper" style="width:150px; border-radius: 50%;">
-  <p><strong>Jasper Verwilt</strong><br>Nanopore fanboy</p>
+  <p><strong>Jasper Verwilt</strong><br>
+  <span style="font-size: 0.9em; color: gray;">UAntwerp - VIB</span><br>
+  Nanopore fanboy</p>
 </div>
 
 <div style="flex: 1 1 200px; text-align: center;">
   <img src="/images/people/wouter2.png" alt="Antoine" style="width:150px; border-radius: 50%;">
-  <p><strong>Antoine Van De Vloet</strong><br>Knows plants</p>
+  <p><strong>Antoine Van De Vloet</strong><br>
+  <span style="font-size: 0.9em; color: gray;">UGent</span><br>
+  Knows plants</p>
 </div>
 
 <div style="flex: 1 1 200px; text-align: center;">
   <img src="/images/people/nick.png" alt="Nicky" style="width:150px; border-radius: 50%;">
-  <p><strong>Nicky De Vrij</strong><br>Flowcell freezer</p>
+  <p><strong>Nicky De Vrij</strong><br>
+  <span style="font-size: 0.9em; color: gray;">UAntwerp</span><br>
+  Flowcell freezer</p>
 </div>
 
 <div style="flex: 1 1 200px; text-align: center;">
   <img src="/images/people/wim.png" alt="Wim" style="width:150px; border-radius: 50%;">
-  <p><strong>Wim Cuypers</strong><br>Nanopore evangelist</p>
+  <p><strong>Wim Cuypers</strong><br>
+  <span style="font-size: 0.9em; color: gray;">UAntwerp</span><br>
+  Nanopore evangelist</p>
 </div>
 
 </div>
