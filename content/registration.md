@@ -20,18 +20,6 @@ Registration for Flanders Nanopore Day 2026 is required. Please fill out the for
 - **Venue**: UAntwerp Stadscampus, Building C, Aula C.001
 - **Location**: Prinsstraat 13, Antwerp, Belgium
 
-<div class="form-container">
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeBWVyUw8eJDcpmS-XKhM9KAltnYV3yV65fY-2kwyPNwfy_Ig/viewform?embedded=true" 
-          width="100%" 
-          height="850" 
-          frameborder="0" 
-          marginheight="0" 
-          marginwidth="0"
-          class="google-form">
-    Loading…
-  </iframe>
-</div>
-
 ## What to Expect
 
 - **Networking opportunities** with the nanopore research community
@@ -42,3 +30,15 @@ Registration for Flanders Nanopore Day 2026 is required. Please fill out the for
 ## Contact
 
 For questions about registration, please contact us at: [nanoporeday@uantwerpen.be](mailto:nanoporeday@uantwerpen.be)
+
+<div class="form-container">
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeBWVyUw8eJDcpmS-XKhM9KAltnYV3yV65fY-2kwyPNwfy_Ig/viewform?embedded=true" 
+          width="100%" 
+          height="1200" 
+          frameborder="0" 
+          marginheight="0" 
+          marginwidth="0"
+          class="google-form">
+    Loading…
+  </iframe>
+</div>
