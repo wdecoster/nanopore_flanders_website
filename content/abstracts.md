@@ -20,18 +20,7 @@ We invite you to submit your abstract for consideration as a **poster** or **ora
 - **Presentation types**: Poster presentation, oral presentation, or either
 - **Topics**: All aspects of nanopore technology and applications
 - **Language**: English
-
-<div class="form-container">
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1M8bT5aHqDdyIbSmEVHrPWPxu73ePzNHEbffRG3UPktV9oQ/viewform?embedded=true" 
-          width="100%" 
-          height="1200" 
-          frameborder="0" 
-          marginheight="0" 
-          marginwidth="0"
-          class="google-form">
-    Loading…
-  </iframe>
-</div>
+- **Applications**: only through the form below
 
 ### Review Process
 
@@ -40,3 +29,15 @@ All submitted abstracts will be reviewed by our scientific committee. Authors wi
 ## Contact
 
 For questions about abstract submission, please contact us at: [nanoporeday@uantwerpen.be](mailto:nanoporeday@uantwerpen.be)
+
+<div class="form-container">
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1M8bT5aHqDdyIbSmEVHrPWPxu73ePzNHEbffRG3UPktV9oQ/viewform?embedded=true" 
+          width="100%" 
+          height="1600" 
+          frameborder="0" 
+          marginheight="0" 
+          marginwidth="0"
+          class="google-form">
+    Loading…
+  </iframe>
+</div>
