@@ -22,11 +22,13 @@ More information about our campuses can be found on the [UAntwerpen website](htt
 ## Getting There
 
 ### Public Transportation
+
 - **Train**: Antwerp Central Station is approximately 1.5 km from the venue
-- **Tram**: Lines 2, 6, and 15 stop near the Stadscampus
+- **Tram**: Multiple tram lines stop near the Stadscampus
 - **Bus**: Multiple bus lines serve the city center
 
 ### By Car
+
 Parking information will be provided closer to the event date.
 
 ## Schedule
@@ -42,14 +44,7 @@ Parking information will be provided closer to the event date.
 ## Registration Information
 
 - **Academic participants**: Free registration (universities, research institutes)
-- **Industry participants**: 250 EUR registration fee
-- **Invoice**: Industry participants will receive an invoice after registration
-
-## What to Bring
-
-- **Registration confirmation** (digital or printed)
-- **Business cards** for networking
-- **Notebook** for taking notes
+- **Industry participants**: 250 EUR registration fee. Industry participants will receive an invoice after registration
 
 ## Quick Links
 
