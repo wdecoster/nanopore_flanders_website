@@ -6,7 +6,7 @@ draft: false
 
 ## Win Free PromethION Sequencing!
 
-Submit your project proposal for a chance to win **free sequencing on two PromethION flow cells**, generously sponsored by Oxford Nanopore Technologies and organized by the Neuromics Support Facility. Projects will be evaluated based on scientific merit.
+Submit your project proposal for a chance to win **free sequencing on two PromethION flow cells**, generously sponsored by Oxford Nanopore Technologies and organized by the Neuromics Support Facility. Projects will be evaluated based on scientific merit. We will offer sequencing for **two selected projects**, on two PromethION flow cells per project.
 
 ### Prize Details
 
