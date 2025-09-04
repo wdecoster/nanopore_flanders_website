@@ -31,18 +31,7 @@ Submit your project proposal for a chance to win **free sequencing on two Promet
 - **Project duration**: Maximum 12 months
 - **Proposal length**: Maximum 1000 characters
 - **Language**: English
-
-<div class="form-container">
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSckNiSL-l2G6XVEpTLDBkRqVbGkwlP24THcdLwUU4tSctKjiQ/viewform?embedded=true" 
-          width="100%" 
-          height="1400" 
-          frameborder="0" 
-          marginheight="0" 
-          marginwidth="0"
-          class="google-form">
-    Loading…
-  </iframe>
-</div>
+- **Applications**: only through the form below
 
 ### Review Process
 
@@ -61,3 +50,16 @@ Submit your project proposal for a chance to win **free sequencing on two Promet
 ## Contact
 
 For questions about project proposals, please contact us at: [nanoporeday@uantwerpen.be](mailto:nanoporeday@uantwerpen.be)
+
+
+<div class="form-container">
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSckNiSL-l2G6XVEpTLDBkRqVbGkwlP24THcdLwUU4tSctKjiQ/viewform?embedded=true" 
+          width="100%" 
+          height="1400" 
+          frameborder="0" 
+          marginheight="0" 
+          marginwidth="0"
+          class="google-form">
+    Loading…
+  </iframe>
+</div>
