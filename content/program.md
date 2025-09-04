@@ -4,18 +4,15 @@ date: 2025-06-26
 draft: false
 ---
 
-## Conference Program
-
-The detailed program will be announced soon.
-
 ## Keynote Speakers
 
 Information about our keynote speakers will be available shortly.
 
-## Schedule
+## Conference Program
 
-The conference schedule will be published here once finalized.
+The detailed program will be announced later.
 
-## Presentations
 
-Details about presentations and poster sessions will be provided.
+## Posters
+
+Details about the poster session will be provided.
