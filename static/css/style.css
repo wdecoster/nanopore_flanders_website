@@ -113,7 +113,6 @@ body {
 .nav-link:hover,
 .nav-link.active {
     background-color: rgba(255, 255, 255, 0.2);
-    color: #222 !important;
     transform: translateY(-2px);
 }
 
@@ -257,6 +256,31 @@ a:hover {
     padding-top: 2rem;
     border-top: 1px solid rgba(255, 255, 255, 0.2);
     opacity: 0.8;
+}
+
+/* Team member photos */
+.team-photo {
+    width: 150px !important;
+    height: 150px !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
+    display: block !important;
+    box-sizing: border-box;
+}
+
+/* Team member grid container */
+.team-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+}
+
+/* Individual team member cards */
+.team-member {
+    flex: 1 1 200px;
+    text-align: left;
+    max-width: 250px;
 }
 
 /* Form Styles */

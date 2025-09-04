@@ -27,61 +27,59 @@ We successfully sold out with 110 attendees and had a fantastic lineup of talks 
 
 ## Meet the Organizing Committee
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center;">
+<div class="team-grid">
 
-<div style="flex: 1 1 200px; text-align: left;">
-  <img src="/images/people/mojca.png" alt="Mojca" style="width:150px; border-radius: 50%;">
+<div class="team-member">
+  <img src="/images/people/mojca.png" alt="Mojca" class="team-photo">
   <p><strong>Mojca Strazisar</strong><br>
   <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
   Commander of chaos</p>
-  
 </div>
 
-<div style="flex: 1 1 200px; text-align: left;">
-  <img src="/images/people/wouter.png" alt="Wouter" style="width:150px; border-radius: 50%;">
+<div class="team-member">
+  <img src="/images/people/wouter.png" alt="Wouter" class="team-photo">
   <p><strong>Wouter De Coster</strong><br>
   <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
   Chief QC</p>
 </div>
 
-<div style="flex: 1 1 200px; text-align: left;">
-  <img src="/images/people/eline.png" alt="Eline" style="width:150px; border-radius: 50%;">
+<div class="team-member">
+  <img src="/images/people/eline.png" alt="Eline" class="team-photo">
   <p><strong>Eline Turcksin</strong><br>
   <span style="font-size: 0.9em; color: gray;">UAntwerp</span><br>
   Fixer</p>
 </div>
 
-<div style="flex: 1 1 200px; text-align: left;">
-  <img src="/images/people/julia.jpeg" alt="Julia" style="width:150px; border-radius: 50%;">
+<div class="team-member">
+  <img src="/images/people/julia.jpeg" alt="Julia" class="team-photo">
   <p><strong>Julia Gauglitz</strong><br>
   <span style="font-size: 0.9em; color: gray;">UAntwerp</span><br>
   Strategic oversight</p>
 </div>
 
-<div style="flex: 1 1 200px; text-align: left;">
-  <img src="/images/people/tim.jpeg" alt="Tim" style="width:150px; border-radius: 50%;">
+<div class="team-member">
+  <img src="/images/people/tim.jpeg" alt="Tim" class="team-photo">
   <p><strong>Tim De Pooter</strong><br>
   <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
   DNA wisperer</p>
 </div>
 
-<div style="flex: 1 1 200px; text-align: left;">
-  <img src="/images/people/jasper.jpeg" alt="Jasper" style="width:150px; border-radius: 50%;">
+<div class="team-member">
+  <img src="/images/people/jasper.jpeg" alt="Jasper" class="team-photo">
   <p><strong>Jasper Verwilt</strong><br>
   <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
   Nanopore fanboy</p>
 </div>
 
-
-<div style="flex: 1 1 200px; text-align: left;">
-  <img src="/images/people/nick.png" alt="Nicky" style="width:150px; border-radius: 50%;">
+<div class="team-member">
+  <img src="/images/people/nick.png" alt="Nicky" class="team-photo">
   <p><strong>Nicky De Vrij</strong><br>
   <span style="font-size: 0.9em; color: gray;">UAntwerp</span><br>
   Flowcell freezer</p>
 </div>
 
-<div style="flex: 1 1 200px; text-align: left;">
-  <img src="/images/people/wim.png" alt="Wim" style="width:150px; border-radius: 50%;">
+<div class="team-member">
+  <img src="/images/people/wim.png" alt="Wim" class="team-photo">
   <p><strong>Wim Cuypers</strong><br>
   <span style="font-size: 0.9em; color: gray;">UAntwerp</span><br>
   Nanopore evangelist</p>
