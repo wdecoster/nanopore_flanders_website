@@ -10,11 +10,6 @@ draft: false
 
 The Flanders Nanopore Day brings together researchers, scientists, and industry professionals interested in nanopore technology and its applications.
 
-## 🏆 Win Free PromethION Sequencing
-
-Submit a project proposal for your chance to win **free sequencing on two PromethION flow cells**! This exciting competition is sponsored by Oxford Nanopore Technologies and open to academic researchers from Flanders institutions.
-
-[Learn more and submit your proposal](/projects/)
 
 ## Key Information
 
@@ -25,3 +20,9 @@ Submit a project proposal for your chance to win **free sequencing on two Promet
 - **Project proposals**: [Submit proposal](/projects/)
 
 Stay tuned for more details!
+
+## 🏆 Win Free PromethION Sequencing
+
+Submit a project proposal for your chance to win **free sequencing on two PromethION flow cells**! This exciting competition is sponsored by Oxford Nanopore Technologies and open to academic researchers from Flanders institutions.
+
+[Learn more and submit your proposal](/projects/)

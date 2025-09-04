@@ -34,7 +34,7 @@ For questions about registration, please contact us at: [nanoporeday@uantwerpen.
 <div class="form-container">
   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeBWVyUw8eJDcpmS-XKhM9KAltnYV3yV65fY-2kwyPNwfy_Ig/viewform?embedded=true" 
           width="100%" 
-          height="1200" 
+          height="1400" 
           frameborder="0" 
           marginheight="0" 
           marginwidth="0"
