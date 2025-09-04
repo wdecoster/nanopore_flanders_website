@@ -35,7 +35,7 @@ We successfully sold out with 110 attendees and had a fantastic lineup of talks 
 <div style="flex: 1 1 200px; text-align: center;">
   <img src="/images/people/mojca.png" alt="Mojca" style="width:150px; border-radius: 50%;">
   <p><strong>Mojca Strazisar</strong><br>
-  <span style="font-size: 0.9em; color: gray;">UAntwerp - VIB</span><br>
+  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
   Commander of chaos</p>
   
 </div>
@@ -43,7 +43,7 @@ We successfully sold out with 110 attendees and had a fantastic lineup of talks 
 <div style="flex: 1 1 200px; text-align: center;">
   <img src="/images/people/wouter.png" alt="Wouter" style="width:150px; border-radius: 50%;">
   <p><strong>Wouter De Coster</strong><br>
-  <span style="font-size: 0.9em; color: gray;">UAntwerp - VIB</span><br>
+  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
   Chief QC</p>
 </div>
 
@@ -64,14 +64,14 @@ We successfully sold out with 110 attendees and had a fantastic lineup of talks 
 <div style="flex: 1 1 200px; text-align: center;">
   <img src="/images/people/tim.jpeg" alt="Tim" style="width:150px; border-radius: 50%;">
   <p><strong>Tim De Pooter</strong><br>
-  <span style="font-size: 0.9em; color: gray;">UAntwerp - VIB</span><br>
+  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
   DNA wisperer</p>
 </div>
 
 <div style="flex: 1 1 200px; text-align: center;">
   <img src="/images/people/jasper.jpeg" alt="Jasper" style="width:150px; border-radius: 50%;">
   <p><strong>Jasper Verwilt</strong><br>
-  <span style="font-size: 0.9em; color: gray;">UAntwerp - VIB</span><br>
+  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
   Nanopore fanboy</p>
 </div>
 
@@ -89,25 +89,27 @@ We successfully sold out with 110 attendees and had a fantastic lineup of talks 
   <span style="font-size: 0.9em; color: gray;">UAntwerp</span><br>
   Nanopore evangelist</p>
 </div>
+</div>
 
+<div>
 <div style="flex: 1 1 200px; text-align: center;">
   <img src="/images/people/antoine.jpeg" alt="Antoine" style="width:150px; border-radius: 50%;">
   <p><strong>Antoine Van De Vloet</strong><br>
-  <span style="font-size: 0.9em; color: gray;">UGent</span><br>
+  <span style="font-size: 0.9em; color: gray;">VIB - UGent</span><br>
   Representing Ghent</p>
 </div>
 
 <div style="flex: 1 1 200px; text-align: center;">
   <img src="/images/people/alexandra.jpeg" alt="Alexandra" style="width:150px; border-radius: 50%;">
   <p><strong>Alexandra Pančíková</strong><br>
-  <span style="font-size: 0.9em; color: gray;">UGent</span><br>
+  <span style="font-size: 0.9em; color: gray;">VIB - KULeuven</span><br>
   Representing Leuven</p>
 </div>
 
 <div style="flex: 1 1 200px; text-align: center;">
   <img src="/images/people/koen.jpeg" alt="Koen" style="width:150px; border-radius: 50%;">
   <p><strong>Koen Deserranno</strong><br>
-  <span style="font-size: 0.9em; color: gray;">KU Leuven</span><br>
+  <span style="font-size: 0.9em; color: gray;">UGent</span><br>
   Representing Ghent</p>
 
 </div>
