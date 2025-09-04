@@ -91,7 +91,7 @@ We successfully sold out with 110 attendees and had a fantastic lineup of talks 
 </div>
 </div>
 
-<div>
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center;">
 <div style="flex: 1 1 200px; text-align: left;">
   <img src="/images/people/antoine.jpeg" alt="Antoine" style="width:150px; border-radius: 50%;">
   <p><strong>Antoine Van De Vloet</strong><br>
