@@ -25,10 +25,7 @@ We successfully sold out with 110 attendees and had a fantastic lineup of talks 
 </div>
 
 
-## Organizing Committee
-
-
-## Meet the team
+## Meet the Organizing Committee
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center;">
 
