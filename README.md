@@ -153,4 +153,4 @@ This website includes registration and abstract submission using embedded Google
 - [x] Make clear that the conference is not free for industry participants, and that an invoice will be sent after registration
 - [x] Add a tab with google form for submission of project proposals to win free sequencing on two PromethION flow cells
 - [ ] Add UAntwerp, VIB and biomina logos as partners to the footer
-- [ ] Make the forms fit better (adjusting height) on the registration, abstract and project proposal pages
+- [x] Make the forms fit better (adjusting height) on the registration, abstract and project proposal pages
