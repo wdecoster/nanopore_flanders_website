@@ -11,7 +11,7 @@ Registration for Flanders Nanopore Day 2026 is required. Please fill out the for
 ### Registration Fees
 
 - **Academic participants**: **FREE** (Universities, research institutes, non-profit organizations)
-- **Industry participants**: **250 EUR** (Commercial companies, for-profit organizations)
+- **Industry participants**: **250 EUR** Early bird rate until March 1st, 2026! (Commercial companies, for-profit organizations)
 
 **Important for industry participants**: An invoice will be sent to you after registration based on the information provided in the registration form.
 
