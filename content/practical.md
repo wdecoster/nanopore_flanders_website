@@ -44,7 +44,7 @@ Parking information will be provided closer to the event date.
 ## Registration Information
 
 - **Academic participants**: Free registration (universities, research institutes)
-- **Industry participants**: 250 EUR registration fee. Industry participants will receive an invoice after registration
+- **Industry participants**: Early bird rate until March 1st, 2026: 250 EUR registration fee. Industry participants will receive an invoice after registration.
 
 ## Quick Links
 
