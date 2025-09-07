@@ -84,28 +84,49 @@ We successfully sold out with 110 attendees and had a fantastic lineup of talks 
   <span style="font-size: 0.9em; color: gray;">UAntwerp</span><br>
   Nanopore evangelist</p>
 </div>
-</div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center;">
-<div style="flex: 1 1 200px; text-align: left;">
-  <img src="/images/people/antoine.jpeg" alt="Antoine" style="width:150px; border-radius: 50%;">
+
+<div class="team-member">
+  <img src="/images/people/antoine.jpeg" alt="Antoine" class="team-photo">
   <p><strong>Antoine Van De Vloet</strong><br>
   <span style="font-size: 0.9em; color: gray;">VIB - UGent</span><br>
   Representing Ghent</p>
 </div>
 
-<div style="flex: 1 1 200px; text-align: left;">
-  <img src="/images/people/alexandra.jpeg" alt="Alexandra" style="width:150px; border-radius: 50%;">
+<div class="team-member">
+  <img src="/images/people/alexandra.jpeg" alt="Alexandra" class="team-photo">
   <p><strong>Alexandra Pančíková</strong><br>
   <span style="font-size: 0.9em; color: gray;">VIB - KULeuven</span><br>
   Representing Leuven</p>
 </div>
 
-<div style="flex: 1 1 200px; text-align: left;">
-  <img src="/images/people/koen.jpeg" alt="Koen" style="width:150px; border-radius: 50%;">
+<div class="team-member">
+  <img src="/images/people/koen.jpeg" alt="Koen" class="team-photo">
   <p><strong>Koen Deserranno</strong><br>
   <span style="font-size: 0.9em; color: gray;">UGent</span><br>
   Representing Ghent</p>
-
 </div>
+
+<div class="team-member">
+  <img src="/images/people/margot.png" alt="Margot" class="team-photo">
+  <p><strong>Margot</strong><br>
+  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
+  Finances</p>
+</div>
+
+<div class="team-member">
+  <img src="/images/people/eduardo.png" alt="Eduardo" class="team-photo">
+  <p><strong>Eduardo</strong><br>
+  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
+  IT support</p>
+</div>
+
+<div class="team-member">
+  <img src="/images/people/svenn.png" alt="Svenn" class="team-photo">
+  <p><strong>Svenn</strong><br>
+  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
+  IT support</p>
+</div>
+
+
 </div>
