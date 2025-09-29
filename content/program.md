@@ -9,7 +9,7 @@ draft: false
 <div class="keynote-speakers">
 
 <div class="keynote-speaker">
-  <img src="/images/keynote/matt-loose.jpg" alt="Prof. Matt Loose" class="keynote-photo">
+  <img src="/images/keynote/Loose.jpg" alt="Prof. Matt Loose" class="keynote-photo">
   <div class="keynote-info">
     <h3><a href="https://www.nottingham.ac.uk/life-sciences/people/matt.loose" target="_blank" rel="noopener">Prof. Matt Loose</a></h3>
     <p class="keynote-affiliation">University of Nottingham</p>
