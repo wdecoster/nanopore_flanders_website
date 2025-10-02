@@ -227,23 +227,22 @@ a:hover {
     align-items: center;
     justify-content: center;
     padding: 1rem;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: white;
     border-radius: 8px;
-    transition: background-color 0.3s ease;
+    transition: transform 0.3s ease;
 }
 
 .sponsor-logo:hover {
-    background-color: rgba(255, 255, 255, 0.2);
+    transform: scale(1.05);
 }
 
 .sponsor-logo a {
     display: inline-block;
-    transition: opacity 0.3s ease, transform 0.3s ease;
+    transition: opacity 0.3s ease;
 }
 
 .sponsor-logo a:hover {
-    opacity: 0.8;
-    transform: scale(1.05);
+    opacity: 0.9;
 }
 
 .sponsor-img {
