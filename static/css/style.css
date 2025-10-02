@@ -282,6 +282,63 @@ a:hover {
     max-width: 250px;
 }
 
+/* Keynote Speakers */
+.keynote-speakers {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    margin: 2rem 0;
+}
+
+.keynote-speaker {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    padding: 2rem;
+    background: #f8f9fa;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.keynote-photo {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 12px;
+    flex-shrink: 0;
+}
+
+.keynote-info {
+    flex: 1;
+}
+
+.keynote-info h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.5rem;
+    color: #2c3e50;
+}
+
+.keynote-info h3 a {
+    color: #2c3e50;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.keynote-info h3 a:hover {
+    color: #3498db;
+}
+
+.keynote-affiliation {
+    color: #666;
+    font-style: italic;
+    margin: 0 0 1rem 0;
+}
+
+.keynote-bio {
+    color: #555;
+    line-height: 1.6;
+}
+
 /* Form Styles */
 .form-container {
     max-width: 100%;
@@ -487,6 +544,20 @@ a:hover {
     .submit-btn {
         padding: 0.6rem 1.5rem;
         font-size: 1rem;
+    }
+    
+    /* Keynote responsive styles */
+    .keynote-speaker {
+        flex-direction: column;
+        text-align: center;
+        gap: 1.5rem;
+        padding: 1.5rem;
+    }
+    
+    .keynote-photo {
+        width: 150px;
+        height: 150px;
+        align-self: center;
     }
 }
 
