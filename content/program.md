@@ -18,7 +18,7 @@ draft: false
 </div>
 
 <div class="keynote-speaker">
-  <img src="/images/keynote/Sleegers.jpg" alt="Prof. Kristel Sleegers" class="keynote-photo">
+  <img src="/images/keynote/Sleegers.JPG" alt="Prof. Kristel Sleegers" class="keynote-photo">
   <div class="keynote-info">
     <h3><a href="https://uantwerpen.vib.be/group/KristelSleegers" target="_blank" rel="noopener">Prof. Kristel Sleegers</a></h3>
     <p class="keynote-affiliation">University of Antwerpen - VIB</p>
