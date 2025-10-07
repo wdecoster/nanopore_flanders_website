@@ -12,6 +12,7 @@ Submit your project proposal for a chance to win **free sequencing on two Promet
 
 - **2 PromethION flow cells** for your research project provided by Oxford Nanopore Technologies (FLO-PRO114M)
 - **Technical support** and wet lab consumables from the VIB-UAntwerp Neuromics Support Facility regarding DNA extraction, library preparation and sequencing (up to 2500 euro).
+- **Data analysis support** from Biomina (up to 24 hours/3days)
 - **First-time PromethION users** will be given priority
 
 ### Eligibility
