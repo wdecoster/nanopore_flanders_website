@@ -6,24 +6,25 @@ draft: false
 
 ## Win Free PromethION Sequencing!
 
-Submit your project proposal for a chance to win **free sequencing on two PromethION flow cells**, generously sponsored by Oxford Nanopore Technologies and organized by the Neuromics Support Facility. Projects will be evaluated based on scientific merit. We will offer sequencing for **two selected projects**, on two PromethION flow cells per project.
+Submit your project proposal for a chance to win **free sequencing on two PromethION flow cells**, generously sponsored by Oxford Nanopore Technologies and organized by the Neuromics Support Facility. Projects will be evaluated based on scientific merit. We will offer (c)DNA sequencing for **two selected projects**, on two PromethION flow cells per project.
 
 ### Prize Details
 
-- **2 PromethION flow cells** for your research project
-- **Technical support** from the Neuromics Support Facility
+- **2 PromethION flow cells** for your research project provided by Oxford Nanopore Technologies (FLO-PRO114M)
+- **Technical support** and wet lab consumables from the VIB-UAntwerp Neuromics Support Facility regarding DNA extraction, library preparation and sequencing (up to 2500 euro).
+- **First-time PromethION users** will be given priority
 
 ### Eligibility
 
-- **Academic researchers** from Flanders institutions
+- **Academic researchers** from Flemish institutions
 - **Novel applications** of nanopore sequencing technology
 - **Feasible projects** that can be completed within 12 months
-- **First-time PromethION users** will be given priority
 
 ### Important Dates
 
-- **Submission deadline**: TBA
-- **Winner announcement**: At the conference (April 17th, 2026)
+- **Submission deadline**: March 1st, 2026
+- **Winner announcement**: March 15th, 2026
+- **Pitch by winners**: April 17th, 2026 at the Flanders Nanopore Day
 - **Project completion**: Within 12 months of award
 
 ### Submission Guidelines
@@ -43,6 +44,7 @@ Submit your project proposal for a chance to win **free sequencing on two Promet
 ### Terms & Conditions
 
 - Winners must acknowledge Oxford Nanopore Technologies in publications
+- Selected applicants will give a short pitch at the 2026 Nanopore Day
 - Results should be presented at a future Flanders Nanopore Day
 - Flow cells must be used within 6 months of receipt
 - Projects should comply with institutional ethics requirements

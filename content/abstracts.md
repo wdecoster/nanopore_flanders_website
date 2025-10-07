@@ -6,12 +6,12 @@ draft: false
 
 ## Submit Your Abstract
 
-We invite you to submit your abstract for consideration as a **poster** or **oral presentation** at Flanders Nanopore Day 2026.
+We invite you to submit your abstract for consideration as a **poster** or **oral presentation** at Flanders Nanopore Day 2026. Oxford Nanopore Technologies generously awards a **MinION Mk1D** as the prize for the best abstract.
 
 ### Important Dates
 
-- **Abstract submission deadline**: TBA
-- **Notification of acceptance**: TBA
+- **Abstract submission deadline**: March 1st, 2026
+- **Notification of decision**: March 15th, 2026
 - **Conference date**: April 17th, 2026
 
 ### Submission Guidelines
@@ -24,7 +24,7 @@ We invite you to submit your abstract for consideration as a **poster** or **ora
 
 ### Review Process
 
-All submitted abstracts will be reviewed by our scientific committee. Authors will be notified of acceptance and presentation format.
+All submitted abstracts will be reviewed by our scientific committee. Authors will be notified of acceptance and presentation format. The best abstract will be selected for the MinION Mk1D prize and announced during the conference.
 
 ## Contact
 

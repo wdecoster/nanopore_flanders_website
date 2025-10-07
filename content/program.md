@@ -13,6 +13,7 @@ draft: false
   <div class="keynote-info">
     <h3><a href="https://www.nottingham.ac.uk/life-sciences/people/matt.loose" target="_blank" rel="noopener">Prof. Matt Loose</a></h3>
     <p class="keynote-affiliation">University of Nottingham</p>
+    <p class="keynote-title">"Rapid Intraoperative Nanopore Sequencing for Cancer Diagnostics"</p>
 
   </div>
 </div>
@@ -22,7 +23,7 @@ draft: false
   <div class="keynote-info">
     <h3><a href="https://uantwerpen.vib.be/group/KristelSleegers" target="_blank" rel="noopener">Prof. Kristel Sleegers</a></h3>
     <p class="keynote-affiliation">University of Antwerpen - VIB</p>
-
+    <p class="keynote-title">""</p>
   </div>
 </div>
 

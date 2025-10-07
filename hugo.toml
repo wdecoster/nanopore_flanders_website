@@ -30,7 +30,7 @@ theme = 'flanders-nanopore'
     url = '/abstracts/'
     weight = 4
   [[menu.main]]
-    name = 'Projects'
+    name = 'Project prizes'
     url = '/projects/'
     weight = 5
   [[menu.main]]
