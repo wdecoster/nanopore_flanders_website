@@ -23,7 +23,7 @@ draft: false
   <div class="keynote-info">
     <h3><a href="https://uantwerpen.vib.be/group/KristelSleegers" target="_blank" rel="noopener">Prof. Kristel Sleegers</a></h3>
     <p class="keynote-affiliation">University of Antwerpen - VIB</p>
-    <p class="keynote-title">""</p>
+    <p class="keynote-title">"Reading the Alzheimer brain"</p>
   </div>
 </div>
 
