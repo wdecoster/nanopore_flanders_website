@@ -208,9 +208,26 @@ a:hover {
 
 .sponsors h3 {
     font-size: 1.5rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
     color: white;
     border-bottom: none;
+}
+
+.sponsor-tier {
+    margin-bottom: 2.5rem;
+}
+
+.sponsor-tier:last-child {
+    margin-bottom: 0;
+}
+
+.sponsor-tier-title {
+    font-size: 1.1rem;
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 1rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 .sponsor-logos {
@@ -219,7 +236,6 @@ a:hover {
     align-items: center;
     flex-wrap: wrap;
     gap: 2rem;
-    margin-bottom: 2rem;
 }
 
 .sponsor-logo {
@@ -248,6 +264,19 @@ a:hover {
 .sponsor-img {
     height: 40px;
     width: auto;
+}
+
+/* Different sizes for sponsor tiers */
+.general-sponsor .sponsor-img {
+    height: 60px;
+}
+
+.gold-sponsors .sponsor-img {
+    height: 45px;
+}
+
+.partner-sponsors .sponsor-img {
+    height: 35px;
 }
 
 .footer-info {
