@@ -29,6 +29,21 @@ draft: false
 
 </div>
 
+## Invited Speakers
+
+<div class="invited-speakers">
+
+<div class="invited-speaker">
+  <img src="/images/speakers/sonia.jpeg" alt="Sonia Garcia Mendez" class="invited-photo">
+  <div class="invited-info">
+    <h3><a href="https://www.psb.ugent.be/people/GarciaMendezSonia" target="_blank" rel="noopener">Sonia Garcia Mendez</a></h3>
+    <p class="invited-affiliation">VIB-UGent Center for Plant Systems Biology</p>
+    <p class="invited-title">"Nanopore-Driven Characterization of Indigenous Soybean Symbionts: From Flemish Soil Surveys to a Citizen-Science Trapping Initiative"</p>
+  </div>
+</div>
+
+</div>
+
 ## Conference Program
 
 The detailed program will be announced later.
