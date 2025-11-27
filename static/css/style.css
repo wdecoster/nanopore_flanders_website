@@ -416,6 +416,16 @@ a:hover {
     color: #2c3e50;
 }
 
+.invited-info h3 a {
+    color: #2c3e50;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.invited-info h3 a:hover {
+    color: #3498db;
+}
+
 .invited-affiliation {
     color: #666;
     font-style: italic;
