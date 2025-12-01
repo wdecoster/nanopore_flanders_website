@@ -42,6 +42,16 @@ draft: false
   </div>
 </div>
 
+<div class="invited-speaker">
+  <img src="/images/speakers/laurens.jpeg" alt="Laurens Lambrechts" class="invited-photo">
+  <div class="invited-info">
+    <h3><a href="https://www.kuleuven.be/wieiswie/nl/person/00085175" target="_blank" rel="noopener">Laurens Lambrechts</a></h3>
+    <p class="invited-affiliation">VIB-KU Leuven Laboratory of Integrative Cancer Genomics</p>
+    <p class="invited-title">"Expanding the multi-omic toolkit with long-read technologies"</p>
+  </div>
+</div>
+
+
 </div>
 
 ## Conference Program
