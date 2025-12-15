@@ -51,6 +51,15 @@ draft: false
   </div>
 </div>
 
+<div class="invited-speaker">
+  <img src="/images/speakers/julia.png" alt="Júlia Faura Llorens" class="invited-photo">
+  <div class="invited-info">
+    <h3><a href="https://www.linkedin.com/in/j%C3%BAlia-faura/?originalSubdomain=be" target="_blank" rel="noopener">Júlia Faura Llorens</a></h3>
+    <p class="invited-affiliation">VIB-UAntwerp Center for Molecular Neurology</p>
+    <p class="invited-title">"Exploring cryptic splicing in FTD/ALS using Nanopore sequencing"</p>
+  </div>
+</div>
+
 
 </div>
 
