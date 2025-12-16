@@ -109,21 +109,21 @@ We successfully sold out with 110 attendees and had a fantastic lineup of talks 
 
 <div class="team-member">
   <img src="/images/people/margot.png" alt="Margot" class="team-photo">
-  <p><strong>Margot</strong><br>
+  <p><strong>Margot Gadeyne</strong><br>
   <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
   Finances</p>
 </div>
 
 <div class="team-member">
   <img src="/images/people/eduardo.png" alt="Eduardo" class="team-photo">
-  <p><strong>Eduardo</strong><br>
+  <p><strong>Eduardo Alfaro Bautista</strong><br>
   <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
   IT support</p>
 </div>
 
 <div class="team-member">
   <img src="/images/people/svenn.png" alt="Svenn" class="team-photo">
-  <p><strong>Svenn</strong><br>
+  <p><strong>Svenn D'Hert</strong><br>
   <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
   IT support</p>
 </div>
