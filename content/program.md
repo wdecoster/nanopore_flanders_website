@@ -52,7 +52,7 @@ draft: false
 </div>
 
 <div class="invited-speaker">
-  <img src="/images/speakers/julia.png" alt="Júlia Faura Llorens" class="invited-photo">
+  <img src="/images/speakers/julia.jpeg" alt="Júlia Faura Llorens" class="invited-photo">
   <div class="invited-info">
     <h3><a href="https://www.linkedin.com/in/j%C3%BAlia-faura/?originalSubdomain=be" target="_blank" rel="noopener">Júlia Faura Llorens</a></h3>
     <p class="invited-affiliation">VIB-UAntwerp Center for Molecular Neurology</p>
@@ -60,6 +60,15 @@ draft: false
   </div>
 </div>
 
+
+<div class="invited-speaker">
+  <img src="/images/speakers/joe.jpeg" alt="Joe Ibrahim" class="invited-photo">
+  <div class="invited-info">
+    <h3><a href="https://www.linkedin.com/in/joe-ibrahim1" target="_blank" rel="noopener">Joe Ibrahim</a></h3>
+    <p class="invited-affiliation">University of Antwerp Center of Medical Genetics</p>
+    <p class="invited-title">"Profiling (epi)genetic aberrations in pancreatic neuroendocrine tumors using Nanopore sequencing"</p>
+  </div>
+</div>
 
 </div>
 
