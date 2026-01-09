@@ -70,6 +70,15 @@ draft: false
   </div>
 </div>
 
+<div class="invited-speaker">
+  <img src="/images/speakers/sebastiaan.png" alt="Sebastiaan Theuns" class="invited-photo">
+  <div class="invited-info">
+    <h3><a href="https://www.linkedin.com/in/sebastiaantheuns" target="_blank" rel="noopener">Sebastiaan Theuns</a></h3>
+    <p class="invited-affiliation">CEO & co-founder of PathoSense</p>
+    <p class="invited-title">"A better understanding of the microbiome and pathogens in the porcine respiratory and digestive tract using nanopore sequencing"</p>
+  </div>
+</div>
+
 </div>
 
 ## Conference Program
