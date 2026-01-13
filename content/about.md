@@ -6,9 +6,7 @@ draft: false
 
 ## About Flanders Nanopore Day
 
-The Flanders Nanopore Day is a scientific conference dedicated to advancing nanopore technology and its applications in research and industry. Our mission is to bring together the nanopore community in Flanders and beyond to share knowledge, foster collaboration, and advance the field.
-
-## Contact
+The Flanders Nanopore Day is a scientific conference dedicated to sharing advancements in nanopore sequencing technology and its applications in research and industry. Our mission is to bring together the nanopore community in Flanders and beyond to share knowledge, foster collaboration, and advance the field.
 
 For questions, please contact us at: [nanoporeday@uantwerpen.be](mailto:nanoporeday@uantwerpen.be)
 
