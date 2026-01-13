@@ -30,103 +30,90 @@ We successfully sold out with 110 attendees and had a fantastic lineup of talks 
 <div class="team-grid">
 
 <div class="team-member">
-  <img src="/images/people/mojca.png" alt="Mojca" class="team-photo">
-  <p><strong>Mojca Strazisar</strong><br>
-  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
-  Commander of chaos</p>
+  <img src="/images/people/wouter.png" alt="Wouter" class="team-photo">
+  <p><strong>Wouter De Coster</strong><br>
+  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span></p>
 </div>
 
 <div class="team-member">
-  <img src="/images/people/wouter.png" alt="Wouter" class="team-photo">
-  <p><strong>Wouter De Coster</strong><br>
-  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
-  Chief QC</p>
+  <img src="/images/people/mojca.png" alt="Mojca" class="team-photo">
+  <p><strong>Mojca Strazisar</strong><br>
+  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span></p>
 </div>
+
 
 <div class="team-member">
   <img src="/images/people/eline.png" alt="Eline" class="team-photo">
   <p><strong>Eline Turcksin</strong><br>
-  <span style="font-size: 0.9em; color: gray;">UAntwerp</span><br>
-  Fixer</p>
-</div>
-
-<div class="team-member">
-  <img src="/images/people/julia.jpeg" alt="Julia" class="team-photo">
-  <p><strong>Julia Gauglitz</strong><br>
-  <span style="font-size: 0.9em; color: gray;">UAntwerp</span><br>
-  Strategic oversight</p>
-</div>
-
-<div class="team-member">
-  <img src="/images/people/tim.jpeg" alt="Tim" class="team-photo">
-  <p><strong>Tim De Pooter</strong><br>
-  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
-  DNA wisperer</p>
-</div>
-
-<div class="team-member">
-  <img src="/images/people/jasper.jpeg" alt="Jasper" class="team-photo">
-  <p><strong>Jasper Verwilt</strong><br>
-  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
-  Nanopore fanboy</p>
-</div>
-
-<div class="team-member">
-  <img src="/images/people/nick.png" alt="Nicky" class="team-photo">
-  <p><strong>Nicky De Vrij</strong><br>
-  <span style="font-size: 0.9em; color: gray;">UAntwerp</span><br>
-  Flowcell freezer</p>
+  <span style="font-size: 0.9em; color: gray;">UAntwerp</span></p>
 </div>
 
 <div class="team-member">
   <img src="/images/people/wim.png" alt="Wim" class="team-photo">
   <p><strong>Wim Cuypers</strong><br>
-  <span style="font-size: 0.9em; color: gray;">UAntwerp</span><br>
-  Nanopore evangelist</p>
+  <span style="font-size: 0.9em; color: gray;">UAntwerp</span></p>
 </div>
+
+<div class="team-member">
+  <img src="/images/people/jasper.jpeg" alt="Jasper" class="team-photo">
+  <p><strong>Jasper Verwilt</strong><br>
+  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span></p>
+</div>
+
+<div class="team-member">
+  <img src="/images/people/tim.jpeg" alt="Tim" class="team-photo">
+  <p><strong>Tim De Pooter</strong><br>
+  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span></p>
+</div>
+
+
+<!-- <div class="team-member">
+  <img src="/images/people/nick.png" alt="Nicky" class="team-photo">
+  <p><strong>Nicky De Vrij</strong><br>
+  <span style="font-size: 0.9em; color: gray;">UAntwerp</span></p>
+</div> -->
 
 
 <div class="team-member">
   <img src="/images/people/antoine.jpeg" alt="Antoine" class="team-photo">
   <p><strong>Antoine Van De Vloet</strong><br>
-  <span style="font-size: 0.9em; color: gray;">VIB - UGent</span><br>
-  Representing Ghent</p>
+  <span style="font-size: 0.9em; color: gray;">VIB - UGent</span></p>
 </div>
 
 <div class="team-member">
   <img src="/images/people/alexandra.jpeg" alt="Alexandra" class="team-photo">
   <p><strong>Alexandra Pančíková</strong><br>
-  <span style="font-size: 0.9em; color: gray;">VIB - KULeuven</span><br>
-  Representing Leuven</p>
+  <span style="font-size: 0.9em; color: gray;">VIB - KULeuven</span></p>
 </div>
 
 <div class="team-member">
   <img src="/images/people/koen.jpeg" alt="Koen" class="team-photo">
   <p><strong>Koen Deserranno</strong><br>
-  <span style="font-size: 0.9em; color: gray;">UGent</span><br>
-  Representing Ghent</p>
+  <span style="font-size: 0.9em; color: gray;">UGent</span></p>
+</div>
+
+<div class="team-member">
+  <img src="/images/people/julia.jpeg" alt="Julia" class="team-photo">
+  <p><strong>Julia Gauglitz</strong><br>
+  <span style="font-size: 0.9em; color: gray;">UAntwerp</span></p>
 </div>
 
 <div class="team-member">
   <img src="/images/people/margot.png" alt="Margot" class="team-photo">
   <p><strong>Margot Gadeyne</strong><br>
-  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
-  Finances</p>
+  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span></p>
 </div>
 
 <div class="team-member">
   <img src="/images/people/eduardo.png" alt="Eduardo" class="team-photo">
   <p><strong>Eduardo Alfaro Bautista</strong><br>
-  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
-  IT support</p>
+  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span></p>
 </div>
 
 <div class="team-member">
   <img src="/images/people/svenn.png" alt="Svenn" class="team-photo">
   <p><strong>Svenn D'Hert</strong><br>
-  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span><br>
-  IT support</p>
+  <span style="font-size: 0.9em; color: gray;">VIB - UAntwerp</span></p>
 </div>
-
 
 </div>
