@@ -8,13 +8,15 @@ draft: false
 
 The Flanders Nanopore Day is a scientific conference dedicated to advancing nanopore technology and its applications in research and industry. Our mission is to bring together the nanopore community in Flanders and beyond to share knowledge, foster collaboration, and advance the field.
 
-## Previous Events
+## Contact
 
-### First Edition - September 2024
+For questions, please contact us at: [nanoporeday@uantwerpen.be](mailto:nanoporeday@uantwerpen.be)
+
+## Previous Edition - September 2024
 
 We successfully sold out with 110 attendees and had a fantastic lineup of talks covering a wide range of topics, including dementia, epigenetics, virology, mTB, HLA typing, the evolution of cyclids, cable bacteria and more! This demonstrated strong interest in nanopore technology within the Flanders research community.
 
-#### Some impressions from the 2024 edition
+### Some impressions from the 2024 edition
 
 <div style="display: flex; flex-direction: column; gap: 2rem; align-items: center;">
 
