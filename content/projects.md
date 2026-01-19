@@ -44,7 +44,7 @@ Submit your project proposal for a chance to win **free sequencing on two Promet
 
 ### Terms & Conditions
 
-- Winners must acknowledge Oxford Nanopore Technologies in publications
+- Winners must acknowledge Oxford Nanopore Technologies and the VIB-UAntwerp Neuromics Support Facility in publications
 - Selected applicants will give a short pitch at the 2026 Nanopore Day
 - Results should be presented at a future Flanders Nanopore Day
 - Flow cells must be used within 6 months of receipt
