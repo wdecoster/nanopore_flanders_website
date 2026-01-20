@@ -79,6 +79,15 @@ draft: false
   </div>
 </div>
 
+<div class="invited-speaker">
+  <img src="/images/speakers/margo.jpeg" alt="Margo Maex" class="invited-photo">
+  <div class="invited-info">
+    <h3><a href="https://www.sciensano.be/nl/people/margo-maex" target="_blank" rel="noopener">Margo Maex</a></h3>
+    <p class="invited-affiliation">Sciensano</p>
+    <p class="invited-title">"Oxford Nanopore Technologies as a single platform solution for surveillance of gastrointestinal bacterial pathogens"</p>
+  </div>
+</div>
+
 </div>
 
 ## Conference Program
