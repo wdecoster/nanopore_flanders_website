@@ -96,24 +96,24 @@ draft: false
 |-------|---------|
 | 9:00  | Registration and coffee |
 | 10:00 | Welcome |
-| 10:10 | Keynote Matt Loose: *"Rapid Intraoperative Nanopore Sequencing for Cancer Diagnostics"* |
-| 10:35 | Sonia Garcia Mendez: *"Nanopore-Driven Characterization of Indigenous Soybean Symbionts: From Flemish Soil Surveys to a Citizen-Science Trapping Initiative"* |
-| 10:50 | Laurens Lambrechts: *"Expanding the multi-omic toolkit with long-read technologies"* |
-| 11:05 | Margo Maex: *"Oxford Nanopore Technologies as a single platform solution for surveillance of gastrointestinal bacterial pathogens"* |
+| 10:10 | Keynote Matt Loose<br>*"Rapid Intraoperative Nanopore Sequencing for Cancer Diagnostics"* |
+| 10:35 | Sonia Garcia Mendez<br>*"Nanopore-Driven Characterization of Indigenous Soybean Symbionts: From Flemish Soil Surveys to a Citizen-Science Trapping Initiative"* |
+| 10:50 | Laurens Lambrechts<br>*"Expanding the multi-omic toolkit with long-read technologies"* |
+| 11:05 | Margo Maex<br>*"Oxford Nanopore Technologies as a single platform solution for surveillance of gastrointestinal bacterial pathogens"* |
 | 11:20 | Agilent Sponsor talk by James Cameron |
 | 11:30 | Flash talks |
 | 11:55 | Lunch and poster networking |
 | | |
-| 13:30 | Keynote Kristel Sleegers: *"Reading the Alzheimer brain"* |
+| 13:30 | Keynote Kristel Sleegers<br>*"Reading the Alzheimer brain"* |
 | 13:55 | ONT Sponsor talk |
-| 14:10 | Joe Ibrahim: *"Profiling (epi)genetic aberrations in pancreatic neuroendocrine tumors using Nanopore sequencing"* |
-| 14:25 | Júlia Faura Llorens: *"Exploring cryptic splicing in FTD/ALS using Nanopore sequencing"* |
+| 14:10 | Joe Ibrahim<br>*"Profiling (epi)genetic aberrations in pancreatic neuroendocrine tumors using Nanopore sequencing"* |
+| 14:25 | Júlia Faura Llorens<br>*"Exploring cryptic splicing in FTD/ALS using Nanopore sequencing"* |
 | 14:40 | Avantor Sponsor talk |
 | 14:50 | Flash talks |
 | 15:10 | Coffee and posters |
 | | |
-| 16:00 | Sebastiaan Theuns: *"A better understanding of the microbiome and pathogens in the porcine respiratory and digestive tract using nanopore sequencing"* |
-| 16:15 | Hologic Diagenode Sponsor talk by Stefan Pellenz: *“Megaruptor 3: Precision Shearing for Nanopore Long-Read Success”*  |
+| 16:00 | Sebastiaan Theuns<br>*"A better understanding of the microbiome and pathogens in the porcine respiratory and digestive tract using nanopore sequencing"* |
+| 16:15 | Hologic Diagenode Sponsor talk by Stefan Pellenz<br>*"Megaruptor 3: Precision Shearing for Nanopore Long-Read Success"* |
 | 16:25 | Announcements and closing |
 | 17:00 | Reception |
 
