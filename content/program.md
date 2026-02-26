@@ -113,7 +113,7 @@ draft: false
 | 15:10 | Coffee and posters |
 | | |
 | 16:00 | Sebastiaan Theuns: *"A better understanding of the microbiome and pathogens in the porcine respiratory and digestive tract using nanopore sequencing"* |
-| 16:15 | Diagenode Sponsor talk by Stefan Pellenz: *“Megaruptor 3: Precision Shearing for Nanopore Long-Read Success”*  |
+| 16:15 | Hologic Diagenode Sponsor talk by Stefan Pellenz: *“Megaruptor 3: Precision Shearing for Nanopore Long-Read Success”*  |
 | 16:25 | Announcements and closing |
 | 17:00 | Reception |
 
