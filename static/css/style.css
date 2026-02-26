@@ -681,6 +681,68 @@ a:hover {
     }
 }
 
+/* Program table */
+.page-content table {
+    width: 100%;
+    max-width: 700px;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.97rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.page-content table thead tr {
+    background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
+    color: white;
+    text-align: left;
+}
+
+.page-content table th {
+    padding: 0.75rem 1rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+}
+
+.page-content table td {
+    padding: 0.6rem 1rem;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.page-content table td:first-child {
+    font-weight: 600;
+    color: #3498db;
+    white-space: nowrap;
+    width: 5rem;
+}
+
+.page-content table tbody tr:nth-child(odd) {
+    background-color: #f7fafd;
+}
+
+.page-content table tbody tr:nth-child(even) {
+    background-color: #ffffff;
+}
+
+/* Empty separator rows */
+.page-content table tbody tr td:empty,
+.page-content table tbody tr:has(td:first-child:empty) {
+    background-color: #e8f0f8;
+    height: 0.4rem;
+    padding: 0;
+    border: none;
+}
+
+.page-content table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.page-content table tbody tr:hover:not(:has(td:first-child:empty)) {
+    background-color: #eaf4fb;
+    transition: background-color 0.15s ease;
+}
+
 @media (max-width: 480px) {
     .header {
         padding: 0.2rem 0;

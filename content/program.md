@@ -92,7 +92,30 @@ draft: false
 
 ## Conference Program
 
-The detailed program will be announced later.
+| Time  | Session |
+|-------|---------|
+| 9:00  | Registration and coffee |
+| 10:00 | Welcome |
+| 10:10 | Keynote Matt Loose |
+| 10:35 | Sonia Garcia Mendez |
+| 10:50 | Laurens Lambrechts |
+| 11:05 | Margo Maex |
+| 11:20 | Agilent Sponsor talk |
+| 11:30 | Flash talks |
+| 11:55 | Lunch and poster networking |
+| | |
+| 13:30 | Keynote Kristel Sleegers |
+| 13:55 | ONT Sponsor talk |
+| 14:10 | Joe Ibrahim |
+| 14:25 | Júlia Faura Llorens |
+| 14:40 | Avantor Sponsor talk |
+| 14:50 | Flash talks |
+| 15:10 | Coffee and posters |
+| | |
+| 16:00 | Sebastiaan Theuns |
+| 16:15 | Diagenode Sponsor talk |
+| 16:25 | Announcements and closing |
+| 17:00 | Reception |
 
 
 ## Posters
