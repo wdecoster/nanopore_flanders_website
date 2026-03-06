@@ -47,7 +47,7 @@ See also our [detailed program](https://nanoporeflanders.be/program/).
 ## Registration Information
 
 - **Academic participants**: Free registration (universities, research institutes)
-- **Industry participants**: 300 EUR registration fee. Industry participants will receive an invoice after registration.
+- **Industry participants**: 350 EUR registration fee. Industry participants will receive an invoice after registration.
 
 ## Quick Links
 

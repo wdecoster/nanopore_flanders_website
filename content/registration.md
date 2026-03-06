@@ -13,7 +13,7 @@ Registration for Flanders Nanopore Day 2026 is required. Please fill out the for
 - Deadline: April 1st, 2026 or until all spots are filled (limited capacity)
 
 - **Academic participants**: **FREE** (Universities, research institutes, non-profit organizations). Participants that register but do not attend (excluding force majeure) will be banned from attending future editions of the conference.
-- **Industry participants**: **300 EUR** (Commercial companies, for-profit organizations). An invoice will be sent to you after registration based on the information provided in the registration form.
+- **Industry participants**: **350 EUR** (Commercial companies, for-profit organizations). An invoice will be sent to you after registration based on the information provided in the registration form.
 
 **Event Details:**
 
