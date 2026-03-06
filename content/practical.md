@@ -37,18 +37,17 @@ The venue is located in room C.001, in Building C of the UAntwerp City Campus, w
 
 ## Schedule
 
-- **Registration**: 9:00 AM
-- **Opening**: 9:30 AM  
-- **Sessions**: Throughout the day
-- **Networking**: Lunch and coffee breaks
-- **Closing**: 5:00 PM
+- **Registration and coffee**: 9:00 AM
+- **Welcome and start of the talks**: 10:00 AM  
+- **Networking**: Lunch, coffee and poster viewing breaks
+- **Closing**: 5:00 PM, followed by a reception
 
-*Detailed program will be updated soon*
+See also our [detailed program](https://nanoporeflanders.be/program/).
 
 ## Registration Information
 
 - **Academic participants**: Free registration (universities, research institutes)
-- **Industry participants**: Early bird rate until March 1st, 2026: 250 EUR registration fee. Industry participants will receive an invoice after registration.
+- **Industry participants**: 300 EUR registration fee. Industry participants will receive an invoice after registration.
 
 ## Quick Links
 
