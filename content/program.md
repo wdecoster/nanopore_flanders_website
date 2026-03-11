@@ -105,7 +105,7 @@ draft: false
 | 11:55 | Lunch and poster networking |
 | | |
 | 13:30 | Keynote Kristel Sleegers<br>*"Reading the Alzheimer brain"* |
-| 13:55 | ONT Sponsor talk |
+| 13:55 | ONT Sponsor talk by Christophe Fleury<br>*"From discovery to healthcare with Nanopore reads"* |
 | 14:10 | Joe Ibrahim<br>*"Profiling (epi)genetic aberrations in pancreatic neuroendocrine tumors using Nanopore sequencing"* |
 | 14:25 | Júlia Faura Llorens<br>*"Exploring cryptic splicing in FTD/ALS using Nanopore sequencing"* |
 | 14:40 | Avantor Sponsor talk |
