@@ -445,6 +445,61 @@ a:hover {
     border-radius: 0 6px 6px 0;
 }
 
+/* Sponsor Speakers */
+.sponsor-speakers {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.sponsor-speaker {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+    padding: 1.5rem;
+    background: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+}
+
+.sponsor-photo {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 8px;
+    flex-shrink: 0;
+}
+
+.sponsor-info {
+    flex: 1;
+}
+
+.sponsor-info h3 {
+    margin: 0 0 0.3rem 0;
+    font-size: 1.2rem;
+    color: #2c3e50;
+}
+
+.sponsor-affiliation {
+    color: #666;
+    font-style: italic;
+    margin: 0 0 0.8rem 0;
+    font-size: 0.95rem;
+}
+
+.sponsor-title {
+    color: #2c3e50;
+    font-weight: 500;
+    font-size: 1rem;
+    margin: 0;
+    padding: 0.4rem 0;
+    border-left: 3px solid #e67e22;
+    padding-left: 0.8rem;
+    background: rgba(230, 126, 34, 0.05);
+    border-radius: 0 6px 6px 0;
+}
+
 /* Form Styles */
 .form-container {
     max-width: 100%;
@@ -675,6 +730,20 @@ a:hover {
     }
     
     .invited-photo {
+        width: 100px;
+        height: 100px;
+        align-self: center;
+    }
+
+    /* Sponsor speaker responsive styles */
+    .sponsor-speaker {
+        flex-direction: column;
+        text-align: center;
+        gap: 1rem;
+        padding: 1rem;
+    }
+
+    .sponsor-photo {
         width: 100px;
         height: 100px;
         align-self: center;

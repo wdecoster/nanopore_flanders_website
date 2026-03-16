@@ -90,6 +90,39 @@ draft: false
 
 </div>
 
+## Sponsor Speakers
+
+<div class="sponsor-speakers">
+
+<div class="sponsor-speaker">
+  <img src="/images/sponsor-speakers/james.png" alt="James Cameron" class="sponsor-photo">
+  <div class="sponsor-info">
+    <h3>James Cameron</h3>
+    <p class="sponsor-affiliation">Agilent</p>
+    <p class="sponsor-title">Advancing Long Read Sequencing: Workflow Innovations Driving Adoption and Targeted Applications</p>
+  </div>
+</div>
+
+<div class="sponsor-speaker">
+  <img src="/images/sponsor-speakers/christophe.jpg" alt="Christophe Fleury" class="sponsor-photo">
+  <div class="sponsor-info">
+    <h3>Christophe Fleury</h3>
+    <p class="sponsor-affiliation">Oxford Nanopore Technologies</p>
+    <p class="sponsor-title">"From discovery to healthcare with Nanopore reads"</p>
+  </div>
+</div>
+
+<div class="sponsor-speaker">
+  <img src="/images/sponsor-speakers/stefan.png" alt="Stefan Pellenz" class="sponsor-photo">
+  <div class="sponsor-info">
+    <h3>Stefan Pellenz</h3>
+    <p class="sponsor-affiliation">Hologic Diagenode</p>
+    <p class="sponsor-title">"Megaruptor 3: Precision Shearing for Nanopore Long-Read Success"</p>
+  </div>
+</div>
+
+</div>
+
 ## Conference Program
 
 | Time  | Session |
