@@ -133,7 +133,7 @@ draft: false
 | 10:35 | Sonia Garcia Mendez<br>*"Nanopore-Driven Characterization of Indigenous Soybean Symbionts: From Flemish Soil Surveys to a Citizen-Science Trapping Initiative"* |
 | 10:50 | Laurens Lambrechts<br>*"Expanding the multi-omic toolkit with long-read technologies"* |
 | 11:05 | Margo Maex<br>*"Oxford Nanopore Technologies as a single platform solution for surveillance of gastrointestinal bacterial pathogens"* |
-| 11:20 | Agilent Sponsor talk by James Cameron |
+| 11:20 | Agilent Sponsor talk by James Cameron<br>*"Advancing Long Read Sequencing: Workflow Innovations Driving Adoption and Targeted Applications"* |
 | 11:30 | Flash talks |
 | 11:55 | Lunch and poster networking |
 | | |
