@@ -113,7 +113,7 @@ draft: false
 </div>
 
 <div class="sponsor-speaker">
-  <img src="/images/sponsor-speakers/stefan.png" alt="Stefan Pellenz" class="sponsor-photo">
+  <img src="/images/sponsor-speakers/stefan.jpeg" alt="Stefan Pellenz" class="sponsor-photo">
   <div class="sponsor-info">
     <h3>Stefan Pellenz</h3>
     <p class="sponsor-affiliation">Hologic Diagenode</p>
