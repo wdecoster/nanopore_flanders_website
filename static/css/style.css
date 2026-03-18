@@ -275,8 +275,28 @@ a:hover {
     height: 45px;
 }
 
+.silver-sponsors .sponsor-img {
+    height: 40px;
+}
+
+.bronze-sponsors .sponsor-img {
+    height: 40px;
+}
+
 .partner-sponsors .sponsor-img {
     height: 35px;
+}
+
+.sponsor-tier-row {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+}
+
+.sponsor-tier-half {
+    flex: 1;
+    max-width: 400px;
+    text-align: center;
 }
 
 .footer-info {
@@ -841,6 +861,11 @@ a:hover {
     .sponsor-logos {
         flex-direction: column;
         gap: 1rem;
+    }
+
+    .sponsor-tier-row {
+        flex-direction: column;
+        gap: 2rem;
     }
     
     .form-container {
