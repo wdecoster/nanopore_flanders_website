@@ -4,6 +4,8 @@ date: 2025-06-26
 draft: false
 ---
 
+[Jump to detailed program](#conference-program)
+
 ## Keynote Speakers
 
 <div class="keynote-speakers">
@@ -141,11 +143,12 @@ draft: false
 | 10:00 | Welcome |
 | 10:10 | Keynote Matt Loose<br>*"Rapid Intraoperative Nanopore Sequencing for Cancer Diagnostics"* |
 | 10:35 | Sonia Garcia Mendez<br>*"Nanopore-Driven Characterization of Indigenous Soybean Symbionts: From Flemish Soil Surveys to a Citizen-Science Trapping Initiative"* |
-| 10:50 | Laurens Lambrechts<br>*"Expanding the multi-omic toolkit with long-read technologies"* |
-| 11:05 | Margo Maex<br>*"Oxford Nanopore Technologies as a single platform solution for surveillance of gastrointestinal bacterial pathogens"* |
-| 11:20 | Agilent Sponsor talk by James Cameron<br>*"Advancing Long Read Sequencing: Workflow Innovations Driving Adoption and Targeted Applications"* |
-| 11:30 | Flash talks |
-| 11:55 | Lunch and poster networking |
+| 10:50 | Varvis Sponsor talk |
+| 11:00 | Laurens Lambrechts<br>*"Expanding the multi-omic toolkit with long-read technologies"* |
+| 11:15 | Margo Maex<br>*"Oxford Nanopore Technologies as a single platform solution for surveillance of gastrointestinal bacterial pathogens"* |
+| 11:30 | Agilent Sponsor talk by James Cameron<br>*"Advancing Long Read Sequencing: Workflow Innovations Driving Adoption and Targeted Applications"* |
+| 11:40 | Flash talks |
+| 12:00 | Lunch and poster networking |
 | | |
 | 13:30 | Keynote Kristel Sleegers<br>*"Reading the Alzheimer brain"* |
 | 13:55 | ONT Sponsor talk by Christophe Fleury<br>*"From discovery to healthcare with Nanopore reads"* |
