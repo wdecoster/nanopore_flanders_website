@@ -121,6 +121,16 @@ draft: false
   </div>
 </div>
 
+<div class="sponsor-speaker">
+  <img src="/images/sponsor-speakers/aimy.jpg" alt="Aimy Sels" class="sponsor-photo">
+  <div class="sponsor-info">
+    <h3>Aimy Sels</h3>
+    <p class="sponsor-affiliation">Quantabio</p>
+    <p class="sponsor-title">"Rapid Library Preparation for Comprehensive Characterization of Bacterial and Viral Pathogens Using the Oxford Nanopore Technologies (ONT) Platform"</p>
+  </div>
+</div>
+
+
 </div>
 
 ## Conference Program
@@ -141,7 +151,7 @@ draft: false
 | 13:55 | ONT Sponsor talk by Christophe Fleury<br>*"From discovery to healthcare with Nanopore reads"* |
 | 14:10 | Joe Ibrahim<br>*"Profiling (epi)genetic aberrations in pancreatic neuroendocrine tumors using Nanopore sequencing"* |
 | 14:25 | Júlia Faura Llorens<br>*"Exploring cryptic splicing in FTD/ALS using Nanopore sequencing"* |
-| 14:40 | Avantor Sponsor talk |
+| 14:40 | Quantabio Sponsor talk by Aimy Sels<br>*"Rapid Library Preparation for Comprehensive Characterization of Bacterial and Viral Pathogens Using the Oxford Nanopore Technologies (ONT) Platform"* |
 | 14:50 | Flash talks |
 | 15:10 | Coffee and posters |
 | | |
@@ -149,8 +159,3 @@ draft: false
 | 16:15 | Hologic Diagenode Sponsor talk by Stefan Pellenz<br>*"Megaruptor 3: Precision Shearing for Nanopore Long-Read Success"* |
 | 16:25 | Announcements and closing |
 | 17:00 | Reception |
-
-
-## Posters
-
-Details about the poster session will be provided.
