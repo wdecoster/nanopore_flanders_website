@@ -132,6 +132,15 @@ draft: false
   </div>
 </div>
 
+<div class="sponsor-speaker">
+  <img src="/images/sponsor-speakers/ben.jpg" alt="Ben Liesfeld" class="sponsor-photo">
+  <div class="sponsor-info">
+    <h3>Ben Liesfeld</h3>
+    <p class="sponsor-affiliation">Varvis</p>
+    <p class="sponsor-title">"Time to say goodbye: long-read sequencing ready to replace array diagnostics in clinical routine"</p>
+  </div>
+</div>
+
 
 </div>
 
@@ -143,7 +152,7 @@ draft: false
 | 10:00 | Welcome |
 | 10:10 | Keynote Matt Loose<br>*"Rapid Intraoperative Nanopore Sequencing for Cancer Diagnostics"* |
 | 10:35 | Sonia Garcia Mendez<br>*"Nanopore-Driven Characterization of Indigenous Soybean Symbionts: From Flemish Soil Surveys to a Citizen-Science Trapping Initiative"* |
-| 10:50 | Varvis Sponsor talk |
+| 10:50 | Varvis Sponsor talk by Ben Liesfeld<br>*"Time to say goodbye: long-read sequencing ready to replace array diagnostics in clinical routine"* |
 | 11:00 | Laurens Lambrechts<br>*"Expanding the multi-omic toolkit with long-read technologies"* |
 | 11:15 | Margo Maex<br>*"Oxford Nanopore Technologies as a single platform solution for surveillance of gastrointestinal bacterial pathogens"* |
 | 11:30 | Agilent Sponsor talk by James Cameron<br>*"Advancing Long Read Sequencing: Workflow Innovations Driving Adoption and Targeted Applications"* |
