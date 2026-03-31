@@ -15,7 +15,7 @@ The Flanders Nanopore Day brings together researchers, scientists, and industry 
 
 - **Date**: April 17th, 2026
 - **Location**: UAntwerp Stadscampus, Building C, Aula C.001, Antwerp
-- **Registration**: Free for academics, 250 EUR for industry - [Register now](/registration/)
+- **Registration**: Free for academics, 350 EUR for industry - [Register now](/registration/)
 - **Abstract submission**: [Submit abstract](/abstracts/)
 - **Project proposals**: [Submit proposal](/projects/)
 
