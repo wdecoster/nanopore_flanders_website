@@ -15,9 +15,7 @@ Building C, Aula C.001
 Prinsstraat 13  
 Antwerp, Belgium
 
-You can <a href="https://medialibrary.uantwerpen.be/files/58518/59a25950-4bce-4c90-ae26-57b1d405fecc.pdf" target="_blank" rel="noopener">
-  view the campus map (PDF) here
-</a>
+You can [View the campus map (PDF) here](https://medialibrary.uantwerpen.be/files/58518/59a25950-4bce-4c90-ae26-57b1d405fecc.pdf)
 
 ## Getting There
 
