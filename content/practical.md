@@ -15,6 +15,10 @@ Building C, Aula C.001
 Prinsstraat 13  
 Antwerp, Belgium
 
+You can <a href="https://medialibrary.uantwerpen.be/files/58518/59a25950-4bce-4c90-ae26-57b1d405fecc.pdf" target="_blank" rel="noopener">
+  view the campus map (PDF) here
+</a>
+
 ## Getting There
 
 To reach the center of Antwerp efficiently, we recommend to come by public transport or bike as much as possible, as the car traffic is notorious in and around the city.
