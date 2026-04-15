@@ -154,7 +154,7 @@ draft: false
 | 10:35 | Sonia Garcia Mendez<br>*"Nanopore-Driven Characterization of Indigenous Soybean Symbionts: From Flemish Soil Surveys to a Citizen-Science Trapping Initiative"* |
 | 10:50 | Varvis Sponsor talk by Ben Liesfeld<br>*"Time to say goodbye: long-read sequencing ready to replace array diagnostics in clinical routine"* |
 | 11:00 | Laurens Lambrechts<br>*"Expanding the multi-omic toolkit with long-read technologies"* |
-| 11:15 | Margo Maex<br>*"Oxford Nanopore Technologies as a single platform solution for surveillance of gastrointestinal bacterial pathogens"* |
+| 11:15 | Margo Maex<br>*"Oxford Nanopore Technologies as an ISO-accredited single platform solution for surveillance of gastrointestinal bacterial pathogens"* |
 | 11:30 | Agilent Sponsor talk by James Cameron<br>*"Advancing Long Read Sequencing: Workflow Innovations Driving Adoption and Targeted Applications"* |
 | 11:40 | **Flash talks – Session 1**<br>11:40 Anran Liu<br>11:45 Quentin Vanderauwera<br>11:50 Laura Raes<br>11:55 Wannes Van Beeck |
 | 12:00 | Lunch |
