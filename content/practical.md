@@ -31,7 +31,7 @@ The venue is located in room C.001, in Building C of the UAntwerp City Campus, w
 
 - There are bike stalls around Grote Kauwenberg 27. UA personnel can usually make use of the secured bike stalls, but might be closed during Easter holiday period
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1520.3458097269859!2d4.410326000000087!3d51.22301694068865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1snl!2sbe!4v1776408015009!5m2!1snl!2sbe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d661.6435224009158!2d4.4109033360098095!3d51.2231571093971!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1snl!2sbe!4v1776408222774!5m2!1snl!2sbe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### By car, consult these useful resources
 
