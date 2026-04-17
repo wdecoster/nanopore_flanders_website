@@ -157,6 +157,7 @@ draft: false
 | 11:15 | Margo Maex<br>*"Oxford Nanopore Technologies as an ISO-accredited single platform solution for surveillance of gastrointestinal bacterial pathogens"* |
 | 11:30 | Agilent Sponsor talk by James Cameron<br>*"Advancing Long Read Sequencing: Workflow Innovations Driving Adoption and Targeted Applications"* |
 | 11:40 | **Flash talks – Session 1**<br>11:40 Anran Liu<br>11:45 Quentin Vanderauwera<br>11:50 Laura Raes<br>11:55 Wannes Van Beeck |
+| | |
 | 12:00 | Lunch |
 | 13:00 | Poster presentations |
 | | |
@@ -166,6 +167,7 @@ draft: false
 | 14:25 | Júlia Faura Llorens<br>*"Exploring cryptic splicing in FTD/ALS using Nanopore sequencing"* |
 | 14:40 | Quantabio Sponsor talk by Aimy Sels<br>*"Rapid Library Preparation for Comprehensive Characterization of Bacterial and Viral Pathogens Using the Oxford Nanopore Technologies (ONT) Platform"* |
 | 14:50 | **Flash talks – Session 2**<br>14:50 Brendan Beahan<br>14:55 Zakaria Eddafir<br>15:00 Laura Fumagalli<br>15:05 Liesl De Keyzer |
+| | |
 | 15:10 | Coffee (until 15:40) and poster presentations |
 | | |
 | 16:00 | Sebastiaan Theuns<br>*"A better understanding of the microbiome and pathogens in the porcine respiratory and digestive tract using nanopore sequencing"* |
@@ -173,4 +175,5 @@ draft: false
 | 16:25 | Abstract prize winner |
 | 16:35 | Project prize winners |
 | 16:50 | Closing remarks |
+| | |
 | 17:00 | Reception |
